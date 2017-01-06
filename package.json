@@ -1,0 +1,14 @@
+{
+  "name": "reactest",
+  "version": "1.0.0",
+  "description": "test react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "spathare",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
